@@ -7,6 +7,9 @@ public class Wed {
 		String name = "Stoumee";
 	     String LastName = "Ghosh";
 
+	    String MN ="Kumar";
+	     System.out.println("My Name Is "+ name + MN + LastName);
+
 	     System.out.println("My Name "+ name + LastName);
 
 
