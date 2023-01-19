@@ -6,7 +6,8 @@ public class Wed {
 		// TODO Auto-generated method stub
 		String name = "Stoumee";
 	     String LastName = "Ghosh";
-	     System.out.println("My Name Is "+ name + LastName);
+	    String MN ="Kumar";
+	     System.out.println("My Name Is "+ name + MN + LastName);
 	     
 	     System.out.println(name);
 	}
