@@ -6,7 +6,13 @@ public class Wed {
 		// TODO Auto-generated method stub
 		String name = "Stoumee";
 	     String LastName = "Ghosh";
+
 	     System.out.println("My Name "+ name + LastName);
+
+
+	     System.out.println("My Name Is "+ name + LastName);
+	     
+	     System.out.println(name);
 
 	}
 
