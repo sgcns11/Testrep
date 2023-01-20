@@ -6,6 +6,7 @@ public class Tuesday {
 		// TODO Auto-generated method stub
 		String name = "Hemant";
 	     String LastName = "Kumar";
+	     String School ="Carmel";
 	     System.out.println("My Name Is "+ name + LastName);
 	}
 
