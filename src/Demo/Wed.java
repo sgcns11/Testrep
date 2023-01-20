@@ -16,6 +16,7 @@ public class Wed {
 	     System.out.println("My Name Is "+ name + LastName);
 	     
 	     System.out.println(name);
+	     System.out.println(MN);
 
 	}
 
