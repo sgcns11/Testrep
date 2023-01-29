@@ -39,9 +39,7 @@ public class switchDemo {
 		default:
 			System.out.println("invalid month");
 		}
-		
-	
-		
+				
 	}
 
 }
