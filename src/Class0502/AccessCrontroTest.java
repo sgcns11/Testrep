@@ -1,4 +1,4 @@
-package Dance;
+package Class0502;
 
 public class AccessCrontroTest {
 
@@ -15,6 +15,7 @@ public class AccessCrontroTest {
     //If private then getter and setter need to used as it not accessable to any other classes or sub classes. .
     // Can be used only the by the members of the class thats is getters and setter. 
     //protected applies only when inheritance is involved
+    //final variable -it cnnot be chnaged further
 	}
 
 }
